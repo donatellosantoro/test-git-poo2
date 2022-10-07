@@ -76,7 +76,7 @@ public class Studente {
     }
     
     public String test(){
-        return "PROVA";
+        return "Windows";
     }
 
 }
