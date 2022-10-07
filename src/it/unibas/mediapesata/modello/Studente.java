@@ -75,6 +75,10 @@ public class Studente {
         return result.toString();
     }
     
+    public String test(){
+        return "PROVA";
+    }
+
 }
 
 
